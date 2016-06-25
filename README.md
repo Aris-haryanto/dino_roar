@@ -4,4 +4,4 @@ The zip file contains the code that worked for me when I was following the Drupa
 
 https://knpuniversity.com/screencast/drupal8-under-the-hood/modules-routes-controllers#play
 
-Note: They're slightly different than what's on the web page and what's in the video (neither version worked for me), but the ones in the zip file did work.
+Note: They're slightly different than what's on the web page and what's in the video (neither of those versions worked for me), but the ones in the zip file did work.
