@@ -1,6 +1,6 @@
 # dino_roar
 
-The zip files contain the code that worked for me when I was following the module building tutorial here: 
+The zip file contains the code that worked for me when I was following the module building tutorial here: 
 
 https://knpuniversity.com/screencast/drupal8-under-the-hood/modules-routes-controllers#play
 
